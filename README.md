@@ -173,7 +173,7 @@ The `UISoundDelegate` protocol defines the optional methods implemented by deleg
 
 >>`YES` when playback was successful; `NO` otherwise.
 
-License#
+#License#
 
 License Agreement for Source Code provided by Patrick Perini
 
