@@ -2,7 +2,7 @@
 //  UISound.h
 //
 //  Created by Patrick Perini on 11/29/11.
-//  Copyright (c) 2011 Patrick Perini. All rights reserved.
+//  Licensing information available in README.md
 //
 
 #import <Foundation/Foundation.h>
